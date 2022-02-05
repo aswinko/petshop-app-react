@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/petshop-app-react/static/css/main.3b960a35.css",
+    "main.css": "/petshop-app-react/static/css/main.eb609c0b.css",
     "main.js": "/petshop-app-react/static/js/main.9a279935.js",
     "static/js/787.349b0e60.chunk.js": "/petshop-app-react/static/js/787.349b0e60.chunk.js",
     "static/media/offer8.jpg": "/petshop-app-react/static/media/offer8.26875156a874b478fd93.jpg",
@@ -22,12 +22,12 @@
     "static/media/offer12.jpg": "/petshop-app-react/static/media/offer12.ead15fdec91f8d052814.jpg",
     "static/media/bg2.jpg": "/petshop-app-react/static/media/bg2.00fe7a5a365dddce9f49.jpg",
     "index.html": "/petshop-app-react/index.html",
-    "main.3b960a35.css.map": "/petshop-app-react/static/css/main.3b960a35.css.map",
+    "main.eb609c0b.css.map": "/petshop-app-react/static/css/main.eb609c0b.css.map",
     "main.9a279935.js.map": "/petshop-app-react/static/js/main.9a279935.js.map",
     "787.349b0e60.chunk.js.map": "/petshop-app-react/static/js/787.349b0e60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b960a35.css",
+    "static/css/main.eb609c0b.css",
     "static/js/main.9a279935.js"
   ]
 }
